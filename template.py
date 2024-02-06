@@ -1,7 +1,3 @@
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
-
-
 import os
 from pathlib import Path
 import logging
